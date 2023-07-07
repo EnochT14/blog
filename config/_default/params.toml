@@ -75,6 +75,6 @@ enableCodeCopy = false
   # yandex = ""
 
 [Params.umami]
-  enabled = true
-  websiteId = "26ed5971-34c2-4f11-ab10-91d8dc26b710"
-  jsLocation = "https://umami.ecobbina.me/umami.js"
+  #enabled = true
+  #websiteId = "26ed5971-34c2-4f11-ab10-91d8dc26b710"
+  #jsLocation = "https://umami.ecobbina.me/umami.js"
