@@ -14,6 +14,6 @@ When I find the time, I code in R and Python to share on my [Github](https://git
 
 <br>
 
-{{< button href="/blog/cv/" target="_self" >}}
+{{< button href="/cv/" target="_self" >}}
 Curriculum Vitae (CV)
 {{< /button >}}

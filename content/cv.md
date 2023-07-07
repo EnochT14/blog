@@ -61,6 +61,6 @@ As a Bachelor of Science student in Information & Communication Technology at th
 
 <br>
 
-{{< button href="/blog/files/cv.pdf" target="_self" >}}
+{{< button href="/files/cv.pdf" target="_self" >}}
 Download CV
 {{< /button >}}
