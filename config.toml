@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 theme = "congo"
-baseURL = "https://ecobbina.me/blog/"
+baseURL = "https://enocht14.github.io/blog/"
 defaultContentLanguage = "en"
 title = "Enoch Cobbina"
 
