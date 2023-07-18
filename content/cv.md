@@ -13,7 +13,7 @@ As a Bachelor of Science student in Information & Communication Technology at th
 ## Education
 
 - (2019 -- Present) **BSc in Information & Communication Technology** -- Ghana Institute of Management and Public Administration, Accra, Ghana
-  + **CGPA:** 3.53/4.0
+  + **CGPA:** 3.59/4.0
   + **Relevant Coursework:** 
     - IT Auditing: Developed audit strategies and techniques to evaluate and manage risks in IT systems.
     - Software Engineering: Incorporated design thinking skills and knowledge of the software development cycle in developing prototypes of solutions to a commercial problem.

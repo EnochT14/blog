@@ -12,8 +12,8 @@ autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = false
 
-# mainSections = ["samples"]
-# robots = ""
+mainSections = ["posts"]
+robots = "all"
 
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
@@ -28,7 +28,7 @@ enableCodeCopy = false
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
   recentLimit = 5
 
 [article]
@@ -64,12 +64,3 @@ enableCodeCopy = false
 [taxonomy]
   showTermCount = true
 
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
