@@ -6,6 +6,7 @@ theme = "congo"
 baseURL = "http://ecobbina.me/"
 defaultContentLanguage = "en"
 title = "Enoch Cobbina"
+author = "Enoch Cobbina"
 
 enableRobotsTXT = true
 paginate = 15

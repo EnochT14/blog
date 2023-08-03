@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: page
 description: Web Mastery - Part 1
 title: "Demystifying Domains: A Guide to Acquiring Your Own"
 date: 2023-07-16
@@ -7,6 +7,11 @@ showTableOfContents: true
 showAuthor: true
 showDate: true
 showReadingTime: true
+tags:
+  - cloudflare
+  - domains
+  - dynadot
+  - hugo
 ---
 
 
