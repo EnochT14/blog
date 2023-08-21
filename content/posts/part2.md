@@ -103,6 +103,6 @@ $ traceroute your-ip
  install traceroute with "sudo apt install traceroute"
 {{< /alert >}}
 
-To confirm there isnt an extra NAT layer, look for only 1 hop - If theres more than 1 hop then you cannot  set that IP for all your self-hosted services
+To confirm there isnt an extra NAT layer, look for only 1 hop - If theres more than 1 hop then you cannot set that IP for any your self-hosted services.
 
 ![traceroute](img/part2/terminal.png)
