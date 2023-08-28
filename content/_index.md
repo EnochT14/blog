@@ -7,9 +7,7 @@ title: 'Enoch Cobbina'
 BSc. Information & Communication Tech. student at GIMPA
 {{< /lead >}}
 
-Hello, my name is Enoch Cobbina. I am a Bachelors of Science student in Information & Communication Technology at GIMPA, passionate about all thing Data Analytics and its applications in making informed decisions for organizations.
-
-
+I'm Enoch Cobbina, a GIMPA graduate with a Bachelors of Science in Information & Communication Technology. Passionate about Data Analytics and its role in informed decision-making. I'm also enthusiastic about DevOps, leveraging its principles to drive efficiency, collaboration, and innovation.
 
 <br>
 

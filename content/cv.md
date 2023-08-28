@@ -30,6 +30,12 @@ As a Bachelor of Science student in Information & Communication Technology at th
 
 ## Certifications
 
+- (August, 2023) **Oracle Cloud Infrastructure 2023 Certified DevOps Professional** -- Oracle
+  + See [certifications](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D44B96884C7877FF263BE62B4CB93FB22525C2A76E99011B51019F531F1708C9) or [PDF](/files/eCertificate.pdf)
+
+- (August, 2023) **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** -- Oracle
+  + See [certifications](https://catalog-education.oracle.com/pls/certview/sharebadge?id=14267E8F81FF37459AAAD40CEA95BD49185D829D72796AAA5A8881F4254DA21D)
+
 - (December, 2022) **Google Data Analytics** -- Coursera
   + See [certifications](https://www.credly.com/badges/7cadd345-2dc6-4a97-81d8-1fef2084cf07/public_url)
 
