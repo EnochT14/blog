@@ -4,14 +4,18 @@ description: Web Mastery - Part 1
 title: "Demystifying Domains: A Guide to Acquiring Your Own"
 date: 2023-07-16
 showTableOfContents: true
-showAuthor: true
+showAuthor: false
 showDate: true
 showReadingTime: true
+summary: "This is the first of a series on self-hosting websites and services. It explores the concept of domains as unique internet addresses and explains how to acquire one using Cloudflare's domain registrar services."
+showSummary: true
+
 tags:
   - cloudflare
   - domains
   - dynadot
   - hugo
+
 ---
 
 

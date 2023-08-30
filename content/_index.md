@@ -1,5 +1,5 @@
 ---
-description: Personal website of Enoch Cobbina
+description: Personal website for Enoch Cobbina
 title: 'Enoch Cobbina'
 ---
 
@@ -7,9 +7,11 @@ title: 'Enoch Cobbina'
 BSc. Information & Communication Tech. student at GIMPA
 {{< /lead >}}
 
-I'm Enoch Cobbina, a GIMPA graduate with a Bachelors of Science in Information & Communication Technology. Passionate about Data Analytics and its role in informed decision-making. I'm also enthusiastic about DevOps, leveraging its principles to drive efficiency, collaboration, and innovation.
+<font size="4px"> I'm Enoch Cobbina, a GIMPA graduate with a Bachelors of Science in Information & Communication Technology. 
 
-<br>
+<p>I'm passionate about Data Analytics and DevOps, leveraging principles from both to drive efficiency, innovation, and decision-making.</p>
+
+</font>
 
 {{< button href="/cv/" target="_self" >}}
 Curriculum Vitae (CV)

@@ -3,6 +3,8 @@ description: CV of Enoch Cobbina
 title: CV
 date: 2023-01-29
 showTableOfContents: true
+showAuthor: false
+showDate: false
 ---
 
 

@@ -4,9 +4,11 @@ description: Web Mastery - Part 2
 title: "Ubuntu Server Setup and Docker Install"
 date: 2023-07-30
 showTableOfContents: true
-showAuthor: true
+showAuthor: false
 showDate: true
 showReadingTime: true
+showSummary: true
+summary: "Part two of the web hosting series explains setting up a web server using Ubuntu. It covers installing Ubuntu, Docker Desktop, configuring a static IP address, and testing for CGNAT."
 tags:
   - containers
   - docker
