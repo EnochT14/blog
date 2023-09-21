@@ -44,13 +44,14 @@ As a Bachelor of Science student in Information & Communication Technology at th
 
 ## Technical skills & languages
 
-### Software
+### Technical
 
+- Golang
 - R (RStudio, R Markdown): Performed data cleaning, and analysis using R.
 - Tableau: Created [visualizations](https://public.tableau.com/views/GhanaCivilAviationAuthorityDasboard/FlightOperations) and dashboards to communicate insights.
 - GitHub: Managed code repositories and collaborated with team members.
 - Microsoft Office: Proficient in Word, Excel, and PowerPoint.
-- Visual Studio Code 
+
 
 ### Languages
 
